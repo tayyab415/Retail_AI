@@ -1,0 +1,7 @@
+{
+  "name": "OmniFlow Retail AI",
+  "description": "A unified agentic AI sales platform demonstrating seamless omnichannel retail experiences with specialized worker agent orchestration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
